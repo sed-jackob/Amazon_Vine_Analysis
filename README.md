@@ -9,7 +9,7 @@ In this project, we're analyzing reviews for the ***PCs*** category by first per
 
 ## Results
 
-Below are snap shots of the dataframes:
+### Below are snap shots of the dataframes:
 
 Reviews with total votes greater than 20:
 ![Votes Greater Than 20](./Resources/DF_votesGreaterThan20.png)
@@ -20,6 +20,15 @@ Reviews with helpful reviews percentage is greater than 50% of total reviews for
 Snap shot of dataframes of paid/unpaid reviews:
 ![Paid/Unpaid Reviews](./Resources/DF_paidAndUnpaidReviews.png)
 
+Following image displays findings:
+![Findings](./Resources/results.png)
+
+- Total number of vine (paid) reviews is: `1774`
+- Total number of non-vine (unpaid) reviews is: `77,004`
+- Total 5-star vine reviews: `783`
+- Total 5-star non-vine reviews: `35,903`
+- `44%` of vine reviews were 5-star
+- `47%` of non-vine reviews were 5-star
 
 ---
 
